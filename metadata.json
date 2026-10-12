@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu - Local Farmer-to-Consumer Marketplace",
+  "description": "Direct farmer-to-consumer web platform connecting local farmers with consumers for fresh, traceable produce with admin verification, inventory control, and COD checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
